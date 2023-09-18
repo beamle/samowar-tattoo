@@ -1,0 +1,15 @@
+.about {
+    height: 1200px;
+    background-color: #13141b;
+}
+
+.about h1 {
+    font-size: 74px !important;
+}
+
+.about__description p{
+    font-size: 84px;
+    font-weight: 900;
+    color: whitesmoke;
+    font-family: Abril Fatface, sans-serif;
+}

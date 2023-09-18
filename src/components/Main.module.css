@@ -1,0 +1,25 @@
+.main {
+    background-color: #13141b;
+    height: 1200px;
+}
+
+.main__image {
+    width: 1650px;
+    filter: brightness(40%);
+    mask-image: linear-gradient(rgb(40, 44, 52) 55%, transparent 93%);
+}
+
+.description {
+    position: absolute;
+    top: 5%;
+    color: #d9d9d9;
+    padding: 10px;
+    font-size: 60px;
+    font-family: "Rye", sans-serif;
+}
+
+.main__buttons {
+    position: absolute;
+    top: 65%;
+    left: 45%;
+}
