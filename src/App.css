@@ -15,6 +15,25 @@ h1 {
   font-size: 114px;
   color: whitesmoke;
 }
+
+@media (max-width: 1050px) {
+  h1 {
+    font-size: 80px;
+  }
+}
+
+@media (max-width: 745px) {
+  h1 {
+    font-size: 54px;
+  }
+}
+
+@media (max-width: 475px) {
+  h1 {
+    font-size: 44px;
+  }
+}
+
 /*.first-color {*/
 /*  background: #141829;*/
 /*}*/

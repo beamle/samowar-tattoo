@@ -7,9 +7,9 @@ const About = () => {
 
     return (
         <div className={s.about}>
-            <Parallax speed={-10} translateY={[10, -110]}>
+            <Parallax speed={-5} translateY={[10, -200]}>
                 <Container>
-                    <h1 style={{fontFamily: "Abril Fatface"}}>About</h1>
+                    <h1 style={{fontFamily: "Abril Fatface"}}>Why Samowar?</h1>
                 </Container>
                 <Container>
                     <div className={s.about__description}>
